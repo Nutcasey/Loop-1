@@ -1920,7 +1920,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@%% CGM פעיל"
+            "value" : "%1$@%% עם קריאות חיישן"
           }
         },
         "hu" : {
@@ -4800,7 +4800,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bolus אוטומטי"
+            "value" : "בולוס אוטומטי"
           }
         },
         "hu" : {
@@ -5515,7 +5515,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Basal שניתן"
+            "value" : "באזל שניתן"
           }
         },
         "hu" : {
@@ -6087,7 +6087,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bolus ליום"
+            "value" : "בולוסים ליום"
           }
         },
         "hu" : {
@@ -6659,7 +6659,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Closed Loop"
+            "value" : "לופ אוטומטי פעיל"
           }
         },
         "hu" : {
@@ -11241,7 +11241,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Open Loop / ידני"
+            "value" : "לופ אוטומטי כבוי / מצב ידני"
           }
         },
         "hu" : {
